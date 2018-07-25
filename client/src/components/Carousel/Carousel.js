@@ -15,12 +15,13 @@ export default class extends React.Component {
     return (
       <Carousel className="carousel" minHeight="100%">
         <img src="https://images.unsplash.com/photo-1478812954026-9c750f0e89fc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=96cc9609b49dbccd31188aef0c82cfb6&auto=format&fit=crop&w=1350&q=80"alt="Roommates near me" />
-        <img src="https://images.unsplash.com/photo-1515552788982-9580e95b4987?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0bb567c84d519f938ac11f3e2c7d784b&auto=format&fit=crop&w=1350&q=80"alt="Roommates near me" />
-        <img src="https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?ixlib=rb-0.3.5&s=cc08a3e8fb5dc21d301639655c18895d&auto=format&fit=crop&w=1351&q=80"alt="Roommates in your city" />
-        <img src="https://images.unsplash.com/photo-1531573590734-a4fe083a5960?ixlib=rb-0.3.5&s=6057a09b8d628c9635f143f31851eda8&auto=format&fit=crop&w=1350&q=80"alt="Reliable roommates" />
+        <img src="https://images.unsplash.com/photo-1517840933437-c41356892b35?ixlib=rb-0.3.5&s=b4a012fb4a980c463736e88eed6ed952&auto=format&fit=crop&w=1350&q=80" />
+        <img src="https://images.unsplash.com/photo-1484712401471-05c7215830eb?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=64a2622330a7ea8f0e1e73d32b8afa9d&auto=format&fit=crop&w=1350&q=80"alt="Best place to look for a roommate"/>
+        <img src="https://images.unsplash.com/photo-1503532036150-0266dd2f0969?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=44be85f5e850bddfab70d51ee54694e5&auto=format&fit=crop&w=1350&q=80" />
         <img src="https://images.unsplash.com/photo-1455734729978-db1ae4f687fc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c391a28620658e1a99824868a8e00566&auto=format&fit=crop&w=1350&q=80"alt="Find a Rooommate" />
         <img src="https://images.unsplash.com/photo-1460518451285-97b6aa326961?ixlib=rb-0.3.5&s=de76103bf709dec71c28a02137478117&auto=format&fit=crop&w=1350&q=80"alt="Looking for a Roommate" />
-        <img src="https://images.unsplash.com/photo-1484712401471-05c7215830eb?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=64a2622330a7ea8f0e1e73d32b8afa9d&auto=format&fit=crop&w=1350&q=80"alt="Best place to look for a roommate"/>
+        <img src="https://images.unsplash.com/photo-1531573590734-a4fe083a5960?ixlib=rb-0.3.5&s=6057a09b8d628c9635f143f31851eda8&auto=format&fit=crop&w=1350&q=80"alt="Reliable roommates" />
+
       </Carousel>
     );
   }
