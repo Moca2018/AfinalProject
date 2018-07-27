@@ -21,4 +21,7 @@ https://github.com/Moca2018/AfinalProject/blob/master/docs/pics/AppPages.jpg?raw
 
 https://github.com/Moca2018/AfinalProject/blob/master/docs/pics/components.jpg?raw=true
 
-
+# HEROKU LINK 
+<p> I am still having issues uploading the app. I'm still working on it.
+  https://finalprojectjuly24roommate.herokuapp.com/
+</p>
