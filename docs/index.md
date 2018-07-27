@@ -15,6 +15,10 @@ I used React JS, Nodemon, MongoDB for the database and npm library "Nuka-Carouse
 </p>
 
 #* DESIGN LAYOUTS - UI/UX COMPONENTS 
-> Diagram - See docs/pics/AppDiagram.jpg
-> App Pages - docs/pics/AppPages.jpg
-> Components - docs/pics/components.jpg
+https://github.com/Moca2018/AfinalProject/blob/master/docs/pics/AppDiagram.jpg?raw=true
+
+https://github.com/Moca2018/AfinalProject/blob/master/docs/pics/AppPages.jpg?raw=true
+
+https://github.com/Moca2018/AfinalProject/blob/master/docs/pics/components.jpg?raw=true
+
+
