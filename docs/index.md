@@ -1,4 +1,4 @@
-# * OVERVIEW
+# OVERVIEW
 <p>Roommate Quest is an application for people looking for a roommate.  Users, looking for a room or a roommate, can create their accounts, describe themselves and post a picture with a headline.
 Even, when there are many "roommate" apps out there, It doesn't mean that we can add one more.
 </p>
