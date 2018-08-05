@@ -20,7 +20,7 @@ mongoose.Promise = global.Promise;
 mongoose.connect(
   process.env.MONGODB_URI || "mongodb://localhost/roommatequest",
   {
-    useMongoClient: false
+    useMongoClient: true
   }
 );
 
