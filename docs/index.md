@@ -40,7 +40,7 @@ I am still having issues uploading the app. I'm still working on it. https://fin
 
 
 
-# SUMMARY OF SIGNIFICAN ISSUES
+# SUMMARY OF SIGNIFICANT ISSUES
 <p>
 I had multiple issues facing every single deadline. One of these issues was the computer speed. The computer need extra memory space and I was not able to add it, resulting in very long waits for the project to be done. Another issue I faced was the creation the REACT APP at the begining, resulting in the creation of multiple projects. At the end I decided to use one of the class projects (AjaxBooks) and build from there. Unfortunatelly, this same action caused me some issues with Heroku and I haven't been able to fix the issue as of now.
 </p>
